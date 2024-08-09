@@ -19,5 +19,6 @@ Extension for Local Storage Manager: import, export, copy and delete.
 
 # Phone:
 + If you use kiwi browser, go to chrome://extensions/press "+ (from .zip..." and add the downloaded extension (remember to turn on developer mode).
+
 #computer:
 + You unzip the file extension to chrome, type chrome://extensions/ and then turn on developer mode (developer mode) to skip the extension folder.
