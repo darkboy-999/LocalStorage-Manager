@@ -5,7 +5,7 @@
 
 - [Introduction](#introduction)
 - [System Requirements](#system-requirements)
-- [Settings](#installation)
+- [Installation](#installation)
 
 ##Introduce
 
@@ -15,7 +15,7 @@ Extension for Local Storage Manager: import, export, copy and delete.
 - Phone (Android): use Kiwi browser to install extensions.
 - Computer (PC): use chrome, edge... as long as it has a chromium core to install extensions.
 
-## Setting
+## Installation
 
 # Phone:
 + If you use kiwi browser, go to chrome://extensions/press "+ (from .zip..." and add the downloaded extension (remember to turn on developer mode).
