@@ -7,7 +7,7 @@
 - [System Requirements](#system-requirements)
 - [Installation](#installation)
 
-##Introduce
+## Introduce
 
 Extension for Local Storage Manager: import, export, copy and delete.
 
